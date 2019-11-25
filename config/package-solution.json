@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "j-query-soln-client-side-solution",
+    "id": "0a0a1bd1-d6be-405c-9134-beb15ba3ddb2",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "isDomainIsolated": false
+  },
+  "paths": {
+    "zippedPackage": "solution/j-query-soln.sppkg"
+  }
+}
